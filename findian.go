@@ -7,7 +7,7 @@ import (
 	"strings"
 )
 
-func main() {
+func main3() {
 	reader := bufio.NewReader(os.Stdin)
 	// create reading buffer like in java
 	fmt.Printf("Enter a string: ")
