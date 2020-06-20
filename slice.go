@@ -8,7 +8,7 @@ import (
 	"strings"
 )
 
-func main() {
+func main1() {
 	arr := make([]int, 0, 3)
 
 	var inp string
