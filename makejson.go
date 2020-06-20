@@ -7,7 +7,7 @@ import (
 	"os"
 )
 
-func main3() {
+func main5() {
 
 	mapv := make(map[string]string)
 	reader := bufio.NewReader(os.Stdin)
